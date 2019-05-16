@@ -1,0 +1,16 @@
+{
+  "name": "poke-graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.4.0",
+    "apollo-server": "^2.5.0",
+    "graphql": "^14.3.0"
+  }
+}
