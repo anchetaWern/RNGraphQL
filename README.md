@@ -1,6 +1,8 @@
 # RNGraphQL
 A Pokemon viewer app created with Apollo GraphQL server and React Native.
 
+Full tutorial is available at: [https://pusher.com/tutorials/learning-graphql-react-native](https://pusher.com/tutorials/learning-graphql-react-native)
+
 ### Prerequisites
 
 -   React Native development environment
