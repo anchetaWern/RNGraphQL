@@ -61,7 +61,6 @@ export default class App extends Component {
   render() {
     const { query } = this.state;
     if (!query) return null;
-    // return <ActivityIndicator size="large" color="#0000ff" />;
     return (
       <ApolloProvider client={client}>
         <Query
